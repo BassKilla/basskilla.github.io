@@ -1,0 +1,35 @@
+# Site settings
+title: Arun Somaskeharan
+email: arunsomasekh@gmail.com
+description: Personal website of Arun Somaskeharan
+baseurl: ""
+url: "https://basskilla.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects/
+  - title: CV
+    url: /cv/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
