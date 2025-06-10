@@ -2,7 +2,7 @@
 layout: default
 title: Curriculum Vitae
 subtitle: Professional Experience & Background
-permalink: /cv/
+permalink: /projects/
 ---
 
 ## Professional Summary
