@@ -1,9 +1,9 @@
 # Site settings
 title: Arun Somaskeharan
-email: arunsomasekh@gmail.com
+email: 
 description: Personal website of Arun Somaskeharan
 baseurl: ""
-url: "https://basskilla.github.io"
+url: "https://basskilla.github.com"
 
 # Build settings
 markdown: kramdown
